@@ -71,7 +71,7 @@ export class PagseguroPgtoService {
      /*      xml2js.parseString(resp['_body'], function(err, result) {
               console.log('Parse', result);
               idSession = JSON.stringify(result.sessions.id).replace(/[a-zA-Z0-9]/g, '');
-            });   /* 
+            });   
  */
             this.credencial.idSession = 'd0fdfe733ba64c04aaab2e7931a11141';//idSession;
             
